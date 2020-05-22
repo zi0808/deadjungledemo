@@ -1,6 +1,10 @@
 # DeadJungle_Demo
 Playable demo of "Dead Jungle" Unity Game - Part of my portfolio.
 LinkedIn : https://www.linkedin.com/in/%EC%9A%A9%ED%98%84-%EA%B9%80-511a18151/
+
+# Download
+Download this repo in ZIP, Or check Releases.
+
 # Overview
 This was a project for my Uni's Unity Capstone Design class.
 Though, at this point i was already experienced with Unity and decided to build a survival zombie FPS. The game is heavily inspired from Killing Floor series.
