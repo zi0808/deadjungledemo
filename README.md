@@ -1,3 +1,5 @@
+**CLICK THE IMAGE TO WATCH THE TEASER VIDEO**
+[![WATCH THE VIDEO](https://github.com/zi0808/deadjungledemo/blob/master/djungle.png)](https://youtu.be/y_LrCRtIuTI)
 # DeadJungle_Demo
 Playable demo of "Dead Jungle" Unity Game - Part of my portfolio.
 LinkedIn : https://www.linkedin.com/in/%EC%9A%A9%ED%98%84-%EA%B9%80-511a18151/
