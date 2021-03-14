@@ -1,4 +1,4 @@
-**CLICK THE IMAGE TO WATCH THE TEASER VIDEO**
+**CLICK THE IMAGE TO WATCH THE TEASER VIDEO**<br>
 **이미지를 클릭하면 티저 영상을 보실 수 있습니다.**
 [![WATCH THE VIDEO](https://github.com/zi0808/deadjungledemo/blob/master/djungle.png)](https://youtu.be/y_LrCRtIuTI)
 # DeadJungle_Demo [ 데드 정글 데모 ]
