@@ -23,13 +23,11 @@ Though, at this point i was already experienced with Unity and decided to build 
 대학 캡스톤 디자인 수업을 위하여 제작한 프로젝트입니다. <br>
 다만 이미 유니티 경험이 있는 상태에서 시작하였고, 생존 좀비 FPS 게임을 만들기로 결정하여 제작했습니다. 이 게임은 킬링 플로어 시리즈에서 큰 영향을 받았습니다. <br>
 
-
 <br>
-<br>
-**Platform 플랫폼** : PC (Windows x64)<br>
-**Development Period 개발 기간** : 1 Month (Nov 2019 ~ Dec 2019)<br>
-**Lead Developer 개발 리드** : Yonghyun Kim<br>
-**Other Teammates 추가 팀원** : Seunghee Yoon, Yoonjae Kim<br>
+**Platform** **[플랫폼]** : PC (Windows x64)<br>
+**Development Period** **[개발 기간]** : 1 Month (Nov 2019 ~ Dec 2019)<br>
+**Lead Developer** **[개발 리드]** : Yonghyun Kim<br>
+**Other Teammates** **[추가 팀원]** : Seunghee Yoon, Yoonjae Kim<br>
 - GUI was done with NGUI. [ UI 에 NGUI 사용 ]
 - Developed and built with Unity 2019.1.14 [ 기존에 유니티 2019.1.14 사용하여 개발 및 빌드함 ]
 - Updated to Unity 2020.2.6.f1 [ 현재 유니티 버전 2020.2.6 f1 으로 업데이트됨 ]
